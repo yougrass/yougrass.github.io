@@ -21,20 +21,20 @@ repository               : "yougrass/yougrass.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "tom_prof_pic.png"
+  name             : "Tom Ugras"
+  pronouns         : "he/him"  
+  bio              : # "Short biography for the left-hand sidebar"
+  location         : # "Earth"
+  employer         : "Cornell University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tju6@cornell.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=RwOXeosAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5931-3031"
   pubmed           : # URL
   researchgate     : # URL
 
