@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Physics, Cornell University, 2025/2026 (expected)
+* M.S. in Applied Physics, Cornell University, 2023
+* B.S.E. in Engineering Physics, Case Western Reserve University, 2020
 
 Work experience
 ======
@@ -59,6 +59,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Outreach
 ======
-* Currently signed in to 43 different slack teams
+* REACT
+* CNF Ambassador
