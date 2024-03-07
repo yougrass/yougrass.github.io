@@ -1,11 +1,11 @@
 ---
-title: "Determining the chiroptical origin from a hierarchially self-assembled magic cluster film"
+title: "Anomalously Large Dissymmetry Factors in Chiroptic Nanocrystal Films"
 collection: talks
 type: "Poster"
-permalink: /talks/2022-cd-poster
-venue: "CD2022"
+permalink: /talks/2023-chess-poster
+venue: "2023 CHESS User Meeting"
 date: 2023-6-23
-location: "New York, NY"
+location: "Ithaca, NY"
 ---
 
-My colleague Frank (Yuan Yao) and I presented a poster together at CD2022 in NYU. We won the BioTools top poster prize at the conference! See the winning letter [here](https://therobinsongroup.org/wordpress/wp-content/uploads/2022/07/7_28_22-4_30-PM-Microsoft-Lens.pdf). This poster was the predecessor to our work [now published in ACS Nano](https://yougrass.github.io/publication/2022-extracting).
+I presented a poster at the 2023 CHESS User Meeting on our synchrotron characterization done at both CHESS and Diamond Light Source. I was awarded the "Best Technical Poster" prize to recognize the "outstanding presentation of research based on the development of new instrumentation, new methods, and/or techniques at CHESS." See [here](https://www.chess.cornell.edu/user-meeting-2023/poster-submission-award). 
